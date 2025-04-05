@@ -119,7 +119,7 @@
 
 ## Block diagram
 
-![](https://example.com/example.png](https://drive.google.com/file/d/1Kia9J5f763RqKzl3oPcpqIkpfbbfHubC/view?usp=drive_link)
+![](https://drive.google.com/file/d/1Kia9J5f763RqKzl3oPcpqIkpfbbfHubC/view?usp=drive_link)
 
 ## System Overview
 
