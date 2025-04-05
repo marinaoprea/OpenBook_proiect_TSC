@@ -117,6 +117,9 @@
 | U5 |  | [Datasheet](https://www.snapeda.com/parts/W25Q512JVEIQ/Winbond+Electronics/view-part/?ref=eda) |
 | U6 |  | [Datasheet](https://ro.mouser.com/datasheet/2/783/BST_BME680_DS001-1509608.pdf) |
 
+## Block diagram
+
+![](https://example.com/example.png](https://drive.google.com/file/d/1Kia9J5f763RqKzl3oPcpqIkpfbbfHubC/view?usp=drive_link)
 
 ## System Overview
 
