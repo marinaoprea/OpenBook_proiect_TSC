@@ -119,7 +119,7 @@
 
 ## Block diagram
 
-![](https://drive.google.com/file/d/1Kia9J5f763RqKzl3oPcpqIkpfbbfHubC/view?usp=drive_link)
+![Block diagram](TSC_block_diagram.png)
 
 ## System Overview
 
