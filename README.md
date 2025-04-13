@@ -10,7 +10,7 @@
         to the display
 * IO6 - used for SPI communication, synchronizes data transfer
 * IO7 - used for SPI (Master Out Slave In)
-* IO8 - 
+* IO8 - not used
 * IO9 - Boot button
 * IO10 - used to connect to the display, selects the display for communication
 * IO11 - selects the flash memory for communication
